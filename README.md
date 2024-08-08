@@ -1,4 +1,4 @@
-#CuentaCorriente 
+#java-personas-herencia
 
 ![Imagen del proyecto](assets/img/Menu.png)
 
