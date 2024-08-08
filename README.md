@@ -8,7 +8,7 @@
 
 ## Descripción 📑
 
-[PDF Del Problema](assets/pdf/laboratorio_2.pdf)
+[PDF Del Problema](assets/pdf/lab3CORREGIDO.pdf)
 
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
